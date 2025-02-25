@@ -1,0 +1,7 @@
+scapy
+discord.py
+flask
+netifaces
+python-nmap
+colorama
+python-dotenv
